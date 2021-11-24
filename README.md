@@ -1,0 +1,2 @@
+# freedom-store
+write project
